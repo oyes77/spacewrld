@@ -36,5 +36,6 @@ El mapa se ve así:
 
 Ahí sirven los mismos atajos.
 
-Para crear una nota usan Ctrl + N, escriben el nombre y empiezan a escribir, y para conectar cosas usen /
+Para crear una nota usan Ctrl + N, escriben el nombre y empiezan a escribir, y para conectar cosas usen /NOTE
+En cualquier parte del text
 
