@@ -3,9 +3,6 @@ tags:
 aliases: 
 created: 2025-01-04
 ---
-
-
-
 [ ] **Introducción General**  
 
 - [ ] **Especies**  
