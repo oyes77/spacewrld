@@ -22,4 +22,8 @@ A la derecha total tienen un reloj, las propiedades de la nota en la que están 
 
 ![[Pasted image 20250104022427.png]]
 
-Para cerrar los páneles de la derecha o izquierda, opriman F3 y F4, les sirve  si no van a escribir por un rato y no necesitan tanta cosa, la tecla F5 les sirve para mostrar
+Para cerrar los páneles de la derecha o izquierda, opriman F3 y F4, les sirve  si no van a escribir por un rato y no necesitan tanta cosa, la tecla F5 les sirve para mostrar los botones de cada ventana y ocultarlos 
+![[Pasted image 20250104022723.png]]
+
+Me parecen innecesarios entonces los mantengo ocultos, cómo se ve en la primera screenshot
+
