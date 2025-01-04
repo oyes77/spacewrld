@@ -55,7 +55,7 @@
       "type": "file",
       "file": "Notes/Maczenhorn.md",
       "x": 280,
-      "y": 160,
+      "y": 200,
       "width": 400,
       "height": 520
     },
@@ -63,8 +63,8 @@
       "id": "00796439edbf7d63",
       "type": "file",
       "file": "Notes/Lithernn.md",
-      "x": -160,
-      "y": -570,
+      "x": 280,
+      "y": -260,
       "width": 400,
       "height": 380
     }
