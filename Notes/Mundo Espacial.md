@@ -1,6 +1,5 @@
 ---
-tags:
-  - ideas
+tags: []
 aliases:
   - space world
 created: 2024-12-02
