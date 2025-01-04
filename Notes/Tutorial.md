@@ -22,4 +22,4 @@ A la derecha total tienen un reloj, las propiedades de la nota en la que están 
 
 ![[Pasted image 20250104022427.png]]
 
-/
+Para cerrar los páneles de la derecha o izquierda, opriman F 3
