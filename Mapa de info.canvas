@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "id": "5bd1733178e433a9",
+      "type": "file",
+      "file": "Notes/Homestone.md",
+      "x": -520,
+      "y": -400,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
