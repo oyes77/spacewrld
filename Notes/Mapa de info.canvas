@@ -1,24 +1,6 @@
 {
   "nodes": [
     {
-      "id": "8b263f016f72432c",
-      "type": "file",
-      "file": "Notes/Nbubn.md",
-      "x": -40,
-      "y": 280,
-      "width": 400,
-      "height": 440
-    },
-    {
-      "id": "0daab481fa385358",
-      "type": "file",
-      "file": "Notes/Kth'amai.md",
-      "x": -40,
-      "y": -280,
-      "width": 400,
-      "height": 520
-    },
-    {
       "id": "c85883e1fb507d44",
       "type": "file",
       "file": "Notes/Mundo Espacial.md",
@@ -51,56 +33,86 @@
       "height": 420
     },
     {
-      "id": "00796439edbf7d63",
+      "id": "8b263f016f72432c",
       "type": "file",
-      "file": "Notes/Lithernn.md",
-      "x": 400,
-      "y": -400,
+      "file": "Notes/Nbubn.md",
+      "x": -160,
+      "y": 420,
       "width": 400,
-      "height": 380
+      "height": 440
+    },
+    {
+      "id": "0daab481fa385358",
+      "type": "file",
+      "file": "Notes/Kth'amai.md",
+      "x": -160,
+      "y": -140,
+      "width": 400,
+      "height": 520
     },
     {
       "id": "255b4974179c8803",
       "type": "file",
       "file": "Notes/Maczenhorn.md",
-      "x": 400,
-      "y": 20,
+      "x": 280,
+      "y": 160,
       "width": 400,
       "height": 520
+    },
+    {
+      "id": "00796439edbf7d63",
+      "type": "file",
+      "file": "Notes/Lithernn.md",
+      "x": -160,
+      "y": -570,
+      "width": 400,
+      "height": 380
     }
   ],
   "edges": [
     {
       "id": "05576ae60fb2d2f9",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
       "fromNode": "c85883e1fb507d44",
       "fromSide": "right",
       "toNode": "00796439edbf7d63",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "3"
     },
     {
       "id": "1be6e0b85858b8cd",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
       "fromNode": "c85883e1fb507d44",
       "fromSide": "right",
       "toNode": "0daab481fa385358",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "3"
     },
     {
       "id": "32d2688ccdbb41fb",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
       "fromNode": "c85883e1fb507d44",
       "fromSide": "right",
       "toNode": "8b263f016f72432c",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "3"
     },
     {
       "id": "b8675db4fdb71294",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
       "fromNode": "c85883e1fb507d44",
       "fromSide": "right",
       "toNode": "255b4974179c8803",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "3"
     }
   ],
   "metadata": {}
