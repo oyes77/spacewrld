@@ -3,8 +3,9 @@ tags:
 aliases: 
 created: 2024-12-02
 ---
-SA planet made of purple sand, it's deadly cold when it's not facing the sun, and when the sun hits the ground, the sand becomes a really slippery kilometers deep layer of constantly melting glass, allowing the their people to live under the sand where the glass is stable. 
-They live on interconnected caverns where the night is completely dark and covered with layers and layers of sand, and the day is evenly lit by the refractions of the sun kilometers on the surface.
+
+Es un planeta hecho de arena púrpura; es mortalmente frío cuando no está de cara al sol, y cuando el sol toca el suelo, la arena se convierte en una capa resbaladiza de kilómetros de profundidad de vidrio que se derrite constantemente, lo que permite que su gente viva bajo la arena, donde el vidrio es estable.  
+Su gente vive en cavernas interconectadas donde la noche es completamente oscura y está cubierta por capas y capas de arena, y el día está uniformemente iluminado por las refracciones del sol a kilómetros en la superficie.  
 
 
 
