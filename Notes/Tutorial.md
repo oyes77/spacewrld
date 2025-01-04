@@ -29,3 +29,8 @@ Me parecen innecesarios entonces los mantengo ocultos, cómo se ve en la primera
 
 F6 les permite cambiar de interfaz a esta (default) o el mapa, que es un canvas con todas las conexiones hasta ahora
 ![[Pasted image 20250104022800.png]]
+
+El mapa se ve así:
+
+![[Pasted image 20250104023552.png]]
+

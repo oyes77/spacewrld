@@ -33,40 +33,40 @@
       "height": 420
     },
     {
+      "id": "0daab481fa385358",
+      "type": "file",
+      "file": "Notes/Kth'amai.md",
+      "x": -200,
+      "y": -150,
+      "width": 400,
+      "height": 520
+    },
+    {
       "id": "8b263f016f72432c",
       "type": "file",
       "file": "Notes/Nbubn.md",
-      "x": -160,
+      "x": -200,
       "y": 420,
       "width": 400,
       "height": 440
     },
     {
-      "id": "0daab481fa385358",
+      "id": "00796439edbf7d63",
       "type": "file",
-      "file": "Notes/Kth'amai.md",
-      "x": -160,
-      "y": -140,
+      "file": "Notes/Lithernn.md",
+      "x": 240,
+      "y": -80,
       "width": 400,
-      "height": 520
+      "height": 380
     },
     {
       "id": "255b4974179c8803",
       "type": "file",
       "file": "Notes/Maczenhorn.md",
-      "x": 280,
-      "y": 200,
+      "x": 240,
+      "y": 340,
       "width": 400,
       "height": 520
-    },
-    {
-      "id": "00796439edbf7d63",
-      "type": "file",
-      "file": "Notes/Lithernn.md",
-      "x": 280,
-      "y": -260,
-      "width": 400,
-      "height": 380
     }
   ],
   "edges": [
