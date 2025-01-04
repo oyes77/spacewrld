@@ -5,7 +5,7 @@ aliases:
 created: 2024-12-02
 ---
 
-The Homestones are stones that all creatures are born with in parts inside their bodies, the smart creatures that can use the magic conciously and not by instinct have their homestones on an exposed part of their bodies, that also allows them of traveling trough the stonegates, how the massive homestones that connect the planets are usually called. 
+Las Homestones son piedras con las que todas las criaturas nacen en partes dentro de sus cuerpos. Las criaturas inteligentes que pueden usar la magia conscientemente y no por instinto tienen sus Homestones en una parte expuesta de sus cuerpos, lo que también les permite viajar a través de los Stonegates, como suelen llamarse las enormes Homestones que conectan los planetas.
 
 
 ---
