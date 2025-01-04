@@ -34,3 +34,7 @@ El mapa se ve así:
 
 ![[Pasted image 20250104023552.png]]
 
+Ahí sirven los mismos atajos.
+
+Para crear una nota usan Ctrl + N, escriben el nombre y empiezan a escribir, y para conectar cosas usen /
+
