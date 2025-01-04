@@ -11,19 +11,6 @@
       "height": 540
     },
     {
-      "id": "8c733baf27c07dc1",
-      "type": "file",
-      "file": "Notes/Lista de cosas.md",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "x": -1280,
-      "y": -740,
-      "width": 400,
-      "height": 680,
-      "color": "7"
-    },
-    {
       "id": "255b4974179c8803",
       "type": "file",
       "file": "Notes/Maczenhorn.md",
@@ -74,14 +61,17 @@
       "height": 420
     },
     {
-      "id": "432ce62a4f32f3a9",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {},
-      "x": -940,
-      "y": 1000,
-      "width": 260,
-      "height": 60
+      "id": "8c733baf27c07dc1",
+      "type": "file",
+      "file": "Notes/Lista de cosas.md",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -1440,
+      "y": 160,
+      "width": 400,
+      "height": 680,
+      "color": "7"
     }
   ],
   "edges": [
