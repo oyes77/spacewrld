@@ -9,4 +9,11 @@ A la izquierda tienen la vista de archivos, pueden seleccionar cualquiera e irá
 
 ![[Pasted image 20250104021352.png]]
 
+Así se debería de ver el vault al inicio, cómo lo abrieron, a
+
+
+
+
+
+
 ---
