@@ -45,6 +45,10 @@ En cualquier parte del texto
 
 El / hace muchos comandos rápidos, son bastante útiles, además de el de hacer links.
 
-Para abrir todos los comandos, presionen SHIFT 2 veces rápido
+Para abrir todos los comandos, presionen SHIFT 2 veces rápido, pueden escribir el nombre del comando/qué quieren hacer si se lo saben, es fácil de usar cuando te acostumbras xq todas las funciones están ahí.
+
+![[Pasted image 20250104024022.png]]
+
+Para buscar y abrir notas rápidamente sin usar la vista de archivo a la izquierda, presionen ALT 2 veces rápido, funciona igual
 
 
