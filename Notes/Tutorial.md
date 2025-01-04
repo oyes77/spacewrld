@@ -43,7 +43,8 @@ En cualquier parte del texto
 
 ![[Pasted image 20250104023809.png]]
 
-El / hace muchos comandos rápidos, son bastante útiles.
+El / hace muchos comandos rápidos, son bastante útiles, además de el de hacer links.
 
-Para hacer  
+Para abrir todos los comandos, presionen SHIFT 2 veces rápido
+
 
