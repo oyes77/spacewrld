@@ -25,8 +25,3 @@ created: 2025-01-04
 
 - [ ] **Monstruos / Criaturas**  
 
-
-
-
-
----
