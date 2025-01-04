@@ -3,8 +3,7 @@ tags:
 aliases: 
 created: 2024-12-02
 ---
-It's a planet goberned by the Azcaarntar, the Khamzen, and the Thilenar, the only planet only habited with species from the other three planets, it once was called home by a long forgotten civilization that now died with all their history as far as it's known. The Azcaarntar coming from Nbubn, the Thilenar coming from Lithern, and the Khamzen coming from Kth'amai, this planet works as the beam that connects the other three trough massive towers that contain a big Homestone, which allows interplanetary travel. 
-
+Es un planeta gobernado por los Azcaarntar, los Khamzen y los Thilenar, el único planeta habitado únicamente por especies de los otros tres planetas. Alguna vez fue llamado hogar por una civilización largamente olvidada que ahora ha muerto junto con toda su historia, hasta donde se sabe. Los Azcaarntar vienen de Nbubn, los Thilenar de Lithern, y los Khamzen de Kth'amai. Este planeta funciona como el puente que conecta a los otros tres a través de enormes torres que contienen una gran Homestone, lo que permite el viaje interplanetario.
 
 
 ---
