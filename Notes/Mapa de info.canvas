@@ -8,7 +8,7 @@
       "x": -1000,
       "y": 100,
       "width": 625,
-      "height": 540
+      "height": 60
     },
     {
       "id": "8c733baf27c07dc1",
@@ -20,7 +20,7 @@
       "x": -1280,
       "y": -740,
       "width": 400,
-      "height": 720,
+      "height": 680,
       "color": "7"
     },
     {
@@ -34,16 +34,6 @@
       "height": 420
     },
     {
-      "id": "0daab481fa385358",
-      "type": "file",
-      "file": "Notes/Kth'amai.md",
-      "styleAttributes": {},
-      "x": -200,
-      "y": -150,
-      "width": 400,
-      "height": 520
-    },
-    {
       "id": "8b263f016f72432c",
       "type": "file",
       "file": "Notes/Nbubn.md",
@@ -51,17 +41,7 @@
       "x": -200,
       "y": 420,
       "width": 400,
-      "height": 440
-    },
-    {
-      "id": "00796439edbf7d63",
-      "type": "file",
-      "file": "Notes/Lithernn.md",
-      "styleAttributes": {},
-      "x": 240,
-      "y": -80,
-      "width": 400,
-      "height": 380
+      "height": 780
     },
     {
       "id": "255b4974179c8803",
@@ -71,7 +51,27 @@
       "x": 240,
       "y": 340,
       "width": 400,
-      "height": 520
+      "height": 860
+    },
+    {
+      "id": "0daab481fa385358",
+      "type": "file",
+      "file": "Notes/Kth'amai.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -90,
+      "width": 400,
+      "height": 860
+    },
+    {
+      "id": "00796439edbf7d63",
+      "type": "file",
+      "file": "Notes/Lithernn.md",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": -20,
+      "width": 400,
+      "height": 740
     }
   ],
   "edges": [
