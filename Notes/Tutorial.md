@@ -4,7 +4,7 @@ aliases:
 created: 2025-01-04
 ---
 
-## Tabla de Contenidos
+# Tabla de Contenidos
 - [[#Introducción]]
 - [[#Estructura del Vault]]
 - [[#Cerrar y Mostrar Paneles]]
@@ -13,6 +13,7 @@ created: 2025-01-04
 - [[#Abrir Paleta de Comandos]]
 - [[#Abrir Buscador de Notas]]
 
+---
 ## Introducción
 Bienvenidos al vault de worldbuilding, este es un pequeño tuto para que no se me pierdan los papus xd.
 
