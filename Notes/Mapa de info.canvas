@@ -8,7 +8,7 @@
       "x": -1000,
       "y": 100,
       "width": 625,
-      "height": 60
+      "height": 540
     },
     {
       "id": "8c733baf27c07dc1",
@@ -22,26 +22,6 @@
       "width": 400,
       "height": 680,
       "color": "7"
-    },
-    {
-      "id": "5bd1733178e433a9",
-      "type": "file",
-      "file": "Notes/Homestone.md",
-      "styleAttributes": {},
-      "x": -1000,
-      "y": 720,
-      "width": 385,
-      "height": 420
-    },
-    {
-      "id": "8b263f016f72432c",
-      "type": "file",
-      "file": "Notes/Nbubn.md",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 420,
-      "width": 400,
-      "height": 780
     },
     {
       "id": "255b4974179c8803",
@@ -72,6 +52,36 @@
       "y": 340,
       "width": 400,
       "height": 740
+    },
+    {
+      "id": "8b263f016f72432c",
+      "type": "file",
+      "file": "Notes/Nbubn.md",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 340,
+      "width": 400,
+      "height": 780
+    },
+    {
+      "id": "5bd1733178e433a9",
+      "type": "file",
+      "file": "Notes/Homestone.md",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": 730,
+      "width": 385,
+      "height": 420
+    },
+    {
+      "id": "432ce62a4f32f3a9",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -940,
+      "y": 1000,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -104,8 +114,8 @@
       "styleAttributes": {},
       "fromNode": "c85883e1fb507d44",
       "fromSide": "right",
-      "toNode": "301f8fcd009692a3",
-      "toSide": "left"
+      "toNode": "8b263f016f72432c",
+      "toSide": "top"
     }
   ],
   "metadata": {}
