@@ -9,6 +9,55 @@
       "y": -400,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "8b263f016f72432c",
+      "type": "file",
+      "file": "Notes/Nbubn.md",
+      "x": -1100,
+      "y": -600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "255b4974179c8803",
+      "type": "file",
+      "file": "Notes/Maczenhorn.md",
+      "x": -960,
+      "y": -820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "00796439edbf7d63",
+      "type": "file",
+      "file": "Notes/Lithernn.md",
+      "x": -160,
+      "y": -760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0daab481fa385358",
+      "type": "file",
+      "file": "Notes/Kth'amai.md",
+      "x": 100,
+      "y": -40,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8c733baf27c07dc1",
+      "type": "file",
+      "file": "Notes/Lista de cosas.md",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -1140,
+      "y": -100,
+      "width": 400,
+      "height": 820,
+      "color": "7"
     }
   ],
   "edges": [],
