@@ -15,4 +15,7 @@ Así se debería de ver el vault al inicio, cómo lo abrieron. A la derecha de e
 
 ![[Pasted image 20250104022013.png|350]]
 
-![[Pasted image 20250104021935.png|325]]
+![[Pasted image 20250104021935.png|325]] 
+*Las imágenes son luego de la corrección porque no se guardaron las screenshots anteriores, windows qlero*
+
+A la derech
