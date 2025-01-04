@@ -59,7 +59,7 @@
       "file": "Notes/Kth'amai.md",
       "styleAttributes": {},
       "x": 680,
-      "y": -90,
+      "y": 340,
       "width": 400,
       "height": 860
     },
@@ -69,55 +69,43 @@
       "file": "Notes/Lithernn.md",
       "styleAttributes": {},
       "x": 1120,
-      "y": -20,
+      "y": 340,
       "width": 400,
       "height": 740
     }
   ],
   "edges": [
     {
-      "id": "05576ae60fb2d2f9",
-      "styleAttributes": {
-        "pathfindingMethod": "a-star"
-      },
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "00796439edbf7d63",
-      "toSide": "left",
-      "color": "3"
-    },
-    {
-      "id": "1be6e0b85858b8cd",
-      "styleAttributes": {
-        "pathfindingMethod": "a-star"
-      },
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "0daab481fa385358",
-      "toSide": "left",
-      "color": "3"
-    },
-    {
-      "id": "32d2688ccdbb41fb",
-      "styleAttributes": {
-        "pathfindingMethod": "a-star"
-      },
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "8b263f016f72432c",
-      "toSide": "left",
-      "color": "3"
-    },
-    {
-      "id": "b8675db4fdb71294",
-      "styleAttributes": {
-        "pathfindingMethod": "a-star"
-      },
+      "id": "cc4e056f5fd5a1de",
+      "styleAttributes": {},
       "fromNode": "c85883e1fb507d44",
       "fromSide": "right",
       "toNode": "255b4974179c8803",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "top"
+    },
+    {
+      "id": "44086a7e7c7b9d9b",
+      "styleAttributes": {},
+      "fromNode": "c85883e1fb507d44",
+      "fromSide": "right",
+      "toNode": "0daab481fa385358",
+      "toSide": "top"
+    },
+    {
+      "id": "72ad9f873136fcc8",
+      "styleAttributes": {},
+      "fromNode": "c85883e1fb507d44",
+      "fromSide": "right",
+      "toNode": "00796439edbf7d63",
+      "toSide": "top"
+    },
+    {
+      "id": "3bcb75f9e225fed9",
+      "styleAttributes": {},
+      "fromNode": "c85883e1fb507d44",
+      "fromSide": "right",
+      "toNode": "301f8fcd009692a3",
+      "toSide": "left"
     }
   ],
   "metadata": {}
