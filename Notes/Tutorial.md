@@ -13,5 +13,6 @@ A la izquierda tienen la vista de archivos, pueden seleccionar cualquiera e irá
 
 Así se debería de ver el vault al inicio, cómo lo abrieron. A la derecha de esta nota está el chat con la IA. Esta tiene muchas funciones, pero la básica es que pueden chatear y hacerle modificaciones a la nota en la que están trabajando. He estado escribiendo esto con mala ortografía y falta de tildes, y así a propósito, para pedirle que me lo corrija.
 
+![[Pasted image 20250104022013.png]]
 
 ![[Pasted image 20250104021935.png]]
