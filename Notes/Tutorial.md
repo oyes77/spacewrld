@@ -37,5 +37,13 @@ El mapa se ve así:
 Ahí sirven los mismos atajos.
 
 Para crear una nota usan Ctrl + N, escriben el nombre y empiezan a escribir, y para conectar cosas usen /NOTE
-En cualquier parte del text
+En cualquier parte del texto 
+
+![[Pasted image 20250104023757.png]]
+
+![[Pasted image 20250104023809.png]]
+
+El / hace muchos comandos rápidos, son bastante útiles.
+
+Para hacer  
 
