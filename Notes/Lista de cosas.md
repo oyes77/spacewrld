@@ -1,20 +1,25 @@
-# Stuff I have to add to each:
+- [ ] **Introducción General**  
 
-- [ ] General intro
-- [ ] Species
-	- [ ] Appareance
-	- [ ] Lifespan
-	- [ ] Relationships with other species
-		- Make this through metadata of each species' note
-	- [ ] 
-- [ ] Culture/s
-	- Might go on the species' notes and then extract blocks for the bigger explanations, maybe.
-	- Include any important characterization here I guess
-- [ ] Lore/known and uknown backstory 
-- [ ] Geography / Landmarks
-- [ ] Religion
-- [ ] Magic
-- [ ] Monsters/creatures
+- [ ] **Especies**  
+  - [ ] Apariencia  
+  - [ ] Esperanza de Vida  
+  - [ ] Relaciones con Otras Especies  
+    - [ ] Usa metadatos de las notas individuales de cada especie.  
+
+- [ ] **Cultura(s)**  
+  - [ ] Integrar en las notas de especies y extraer bloques para explicaciones más amplias.  
+  - [ ] Incluir caracterizaciones importantes aquí.  
+
+- [ ] **Historia / Pasado Conocido y Desconocido**  
+
+- [ ] **Geografía / Lugares Destacados**  
+
+- [ ] **Religión**  
+
+- [ ] **Magia**  
+
+- [ ] **Monstruos / Criaturas**  
+
 
 
 
