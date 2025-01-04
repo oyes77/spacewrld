@@ -49,6 +49,10 @@ Para abrir todos los comandos, presionen SHIFT 2 veces rápido, pueden escribir 
 
 ![[Pasted image 20250104024022.png]]
 
-Para buscar y abrir notas rápidamente sin usar la vista de archivo a la izquierda, presionen ALT 2 veces rápido, funciona igual
+Para buscar y abrir notas rápidamente sin usar la vista de archivo a la izquierda, presionen ALT 2 veces rápido, funciona igual, pueden buscar cualquier archivo en el vault, tanto notas cómo imágenes.
+
+![[Pasted image 20250104024112.png]]
+
+
 
 
