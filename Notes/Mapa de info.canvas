@@ -1,112 +1,110 @@
 {
-  "nodes": [
-    {
-      "id": "c85883e1fb507d44",
-      "type": "file",
-      "file": "Notes/Mundo Espacial.md",
-      "styleAttributes": {},
-      "x": -1000,
-      "y": 100,
-      "width": 625,
-      "height": 520
-    },
-    {
-      "id": "255b4974179c8803",
-      "type": "file",
-      "file": "Notes/Maczenhorn.md",
-      "styleAttributes": {},
-      "x": 240,
-      "y": 340,
-      "width": 400,
-      "height": 840
-    },
-    {
-      "id": "0daab481fa385358",
-      "type": "file",
-      "file": "Notes/Kth'amai.md",
-      "styleAttributes": {},
-      "x": 680,
-      "y": 340,
-      "width": 400,
-      "height": 840
-    },
-    {
-      "id": "00796439edbf7d63",
-      "type": "file",
-      "file": "Notes/Lithernn.md",
-      "styleAttributes": {},
-      "x": 1120,
-      "y": 340,
-      "width": 400,
-      "height": 680
-    },
-    {
-      "id": "8b263f016f72432c",
-      "type": "file",
-      "file": "Notes/Nbubn.md",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 340,
-      "width": 400,
-      "height": 760
-    },
-    {
-      "id": "5bd1733178e433a9",
-      "type": "file",
-      "file": "Notes/Homestone.md",
-      "styleAttributes": {},
-      "x": -1000,
-      "y": 730,
-      "width": 385,
-      "height": 420
-    },
-    {
-      "id": "8c733baf27c07dc1",
-      "type": "file",
-      "file": "Notes/Lista de cosas.md",
-      "styleAttributes": {
-        "border": "invisible"
-      },
-      "x": -1440,
-      "y": 160,
-      "width": 400,
-      "height": 680,
-      "color": "7"
-    }
-  ],
-  "edges": [
-    {
-      "id": "cc4e056f5fd5a1de",
-      "styleAttributes": {},
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "255b4974179c8803",
-      "toSide": "top"
-    },
-    {
-      "id": "44086a7e7c7b9d9b",
-      "styleAttributes": {},
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "0daab481fa385358",
-      "toSide": "top"
-    },
-    {
-      "id": "72ad9f873136fcc8",
-      "styleAttributes": {},
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "00796439edbf7d63",
-      "toSide": "top"
-    },
-    {
-      "id": "3bcb75f9e225fed9",
-      "styleAttributes": {},
-      "fromNode": "c85883e1fb507d44",
-      "fromSide": "right",
-      "toNode": "8b263f016f72432c",
-      "toSide": "top"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"c85883e1fb507d44",
+			"type":"file",
+			"file":"Notes/Mundo Espacial.md",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":100,
+			"width":625,
+			"height":520
+		},
+		{
+			"id":"255b4974179c8803",
+			"type":"file",
+			"file":"Notes/Maczenhorn.md",
+			"styleAttributes":{},
+			"x":240,
+			"y":340,
+			"width":400,
+			"height":840
+		},
+		{
+			"id":"0daab481fa385358",
+			"type":"file",
+			"file":"Notes/Kth'amai.md",
+			"styleAttributes":{},
+			"x":680,
+			"y":340,
+			"width":400,
+			"height":840
+		},
+		{
+			"id":"00796439edbf7d63",
+			"type":"file",
+			"file":"Notes/Lithernn.md",
+			"styleAttributes":{},
+			"x":1120,
+			"y":340,
+			"width":400,
+			"height":680
+		},
+		{
+			"id":"8b263f016f72432c",
+			"type":"file",
+			"file":"Notes/Nbubn.md",
+			"styleAttributes":{},
+			"x":-200,
+			"y":340,
+			"width":400,
+			"height":760
+		},
+		{
+			"id":"5bd1733178e433a9",
+			"type":"file",
+			"file":"Notes/Homestone.md",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":730,
+			"width":385,
+			"height":420
+		},
+		{
+			"id":"8c733baf27c07dc1",
+			"type":"file",
+			"file":"Notes/Lista de cosas.md",
+			"styleAttributes":{"border":"invisible"},
+			"x":-1440,
+			"y":160,
+			"width":400,
+			"height":680,
+			"color":"7"
+		}
+	],
+	"edges":[
+		{
+			"id":"cc4e056f5fd5a1de",
+			"styleAttributes":{},
+			"fromNode":"c85883e1fb507d44",
+			"fromSide":"right",
+			"toNode":"255b4974179c8803",
+			"toSide":"top"
+		},
+		{
+			"id":"44086a7e7c7b9d9b",
+			"styleAttributes":{},
+			"fromNode":"c85883e1fb507d44",
+			"fromSide":"right",
+			"toNode":"0daab481fa385358",
+			"toSide":"top"
+		},
+		{
+			"id":"72ad9f873136fcc8",
+			"styleAttributes":{},
+			"fromNode":"c85883e1fb507d44",
+			"fromSide":"right",
+			"toNode":"00796439edbf7d63",
+			"toSide":"top"
+		},
+		{
+			"id":"3bcb75f9e225fed9",
+			"styleAttributes":{},
+			"fromNode":"c85883e1fb507d44",
+			"fromSide":"right",
+			"toNode":"8b263f016f72432c",
+			"toSide":"top"
+		}
+	],
+	"metadata":{}
 }
